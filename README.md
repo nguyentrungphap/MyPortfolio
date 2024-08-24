@@ -1,9 +1,9 @@
 # MyPortfolio
 
 ## Projects
-### Project 1
+### PriceAppraisal
 - Description
-- Links
+- [Github Repository](https://github.com/herorick/nuxt-boilerplate)
 
 ### Project 2
 - Description
