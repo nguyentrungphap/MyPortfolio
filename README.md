@@ -5,7 +5,7 @@
 - Description
 - [Github Repository](https://github.com/herorick/nuxt-boilerplate)
 
-### Carviet
+### Restaurant
 - Description
 - [Github Repository](https://food-website-fe.vercel.app/)
   
