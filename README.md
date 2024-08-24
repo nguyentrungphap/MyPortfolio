@@ -1,4 +1,4 @@
-# MyPortfolio
+# Portfolio
 
 ## Projects
 ### PriceAppraisal
@@ -8,4 +8,7 @@
 ### Project 2
 - Description
 - Link
+  
+### Education
+- Study at college Công Thương Thành Phố Hồ Chí Minh
   
