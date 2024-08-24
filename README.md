@@ -9,6 +9,6 @@
 - Description
 - [Github Repository](https://github.com/herorick/car-project)
   
-### Education
+## Education
 - Study at college Công Thương Thành Phố Hồ Chí Minh
   
