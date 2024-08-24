@@ -2,3 +2,4 @@ title: Nguyễn Trung Pháp
 logo: docs/assets/logo.png
 description: Reactjs || Vue 
 theme: jekyll-theme-minimal
+custom_css: docs/assets/style.css
