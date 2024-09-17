@@ -6,8 +6,7 @@
 - [Github Repository](https://github.com/herorick/nuxt-boilerplate)
 
 ### Restaurant
-- Description
-- [Github Repository](https://food-website-fe.vercel.app/)
+- [Page](https://food-website-fe.vercel.app/)
   
 # Education
 - Study at college Công Thương Thành Phố Hồ Chí Minh
