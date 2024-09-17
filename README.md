@@ -2,11 +2,11 @@
 
 ## Projects
 ### Booking
-- reactjs , tailwind
+- Reactjs, tailwind css
 - [Booking page](https://hidiarchstudio.com/v2)
 
 ### Restaurant
-- reactjs , tailwind
+- Reactjs, tailwind css
 - [Restaurant Page](https://food-website-fe.vercel.app/)
   
 # Education
