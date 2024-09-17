@@ -3,7 +3,7 @@
 ## Projects
 ### Booking
 - reactjs , tailwind
-- [Booking page]([https://hidiarchstudio.com/v2])
+- [Booking page](https://hidiarchstudio.com/v2)
 
 ### Restaurant
 - reactjs , tailwind
