@@ -1,9 +1,9 @@
 # Portfolio
 
 ## Projects
-### Booking
+### Hidiarch Studio
 - Reactjs, tailwind css
-- [Booking page](https://hidiarchstudio.com/v2)
+- [Booking page](https://hidiarchstudio.com)
 
 ### Restaurant
 - Reactjs, tailwind css
